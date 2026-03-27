@@ -1,16 +1,22 @@
-## Hi there 👋
+# Rewant Khadka
 
-<!--
-**khadkarewant/khadkarewant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer based in Kathmandu, Nepal. Self-taught, building real-world systems with Laravel and PHP.
 
-Here are some ideas to get you started:
+## Tech Stack
+- **Backend:** PHP 8.2, Laravel 12
+- **Database:** MySQL 8.0
+- **Frontend:** JavaScript, Ajax
+- **DevOps:** Docker
+- **Version Control:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### [Kargo](https://github.com/khadkarewant/kargo-laravel)
+Customs and logistics management system built with Laravel 12, PHP 8.2, MySQL, and Docker.
+
+### Quizmania
+Live MCQ exam platform with 60 active users. Built with PHP and MySQL. [quizmania.org](https://quizmania.org)
+
+## Connect
+- LinkedIn: [Rewant Khadka](https://www.linkedin.com/in/rewant-khadka-0bb5831a7)
+- Email: cto@quizmania.org
